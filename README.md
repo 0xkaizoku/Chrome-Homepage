@@ -6,7 +6,7 @@
 4. ![Static Badge](https://img.shields.io/badge/Change%20chrome%20HomeScreen%20settings-If%20you%20want%20to%20make%20it%20permanent-purple)
 5. ![Static Badge](https://img.shields.io/badge/Enjoy-%F0%9F%91%80-Violet)
 
-**LIVE PREVIEW :**
+**LIVE PREVIEW  :**
 
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3ZGI4b3k4NzVyMTdxeTEybHo0OHdoc2J0Mnl2MWlsam1zNWN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehIlKtsqEnyBebR6fv/giphy.gif)
